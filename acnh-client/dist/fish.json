@@ -1,0 +1,1042 @@
+[
+    {
+        "id": 0,
+        "image": "bitterling.png",
+        "name": "Bitterling",
+            "price": 900,
+            "location": "River",
+            "shadowSize": 1,
+            "time": ["0", "1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13", "14", "15", "16", "17", "18", "19", "20", "21", "22", "23"],
+            "season": {
+                "northern": ["january", "february", "march", "", "", "", "", "", "", "", "november", "december"],
+                "southern": ["", "", "", "", "may", "june", "july", "august", "september", "", "", ""]
+            }
+    },
+    {
+        "id": 1,
+        "image": "pale_chub.png",
+        "name": "Pale Chub",
+        "price": 160,
+        "location": "River",
+        "shadowSize": 1,
+        "time": ["", "", "", "", "", "", "", "", "", "9", "10", "11", "12", "13", "14", "15", "", "", "", "", "", "", "", ""],
+        "season": {
+            "northern": ["january", "february", "march", "april", "may", "june", "july", "august", "september", "october", "november", "december"],
+            "southern": ["january", "february", "march", "april", "may", "june", "july", "august", "september", "october", "november", "december"]
+        }
+    },
+    {
+        "id": 2,
+        "image": "crucian_carp.png",
+        "name": "Crucian Carp",
+        "price": 160,
+        "location": "River",
+        "shadowSize": 2,
+        "time": ["0", "1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13", "14", "15", "16", "17", "18", "19", "20", "21", "22", "23"],
+        "season": {
+            "northern": ["january", "february", "march", "april", "may", "june", "july", "august", "september", "october", "november", "december"],
+            "southern": ["january", "february", "march", "april", "may", "june", "july", "august", "september", "october", "november", "december"]
+        }
+    },
+    {
+        "id": 3,
+        "image": "dace.png",
+        "name": "Dace",
+        "price": 240,
+        "location": "River",
+        "shadowSize": 3,
+        "time": ["0", "1", "2", "3", "4", "5", "6", "7", "8", "", "", "", "", "", "", "", "16", "17", "18", "19", "20", "21", "22", "23"],
+        "season": {
+            "northern": ["january", "february", "march", "april", "may", "june", "july", "august", "september", "october", "november", "december"],
+            "southern": ["january", "february", "march", "april", "may", "june", "july", "august", "september", "october", "november", "december"]
+        }
+    },
+    {
+        "id": 4,
+        "image": "carp.png",
+        "name": "Carp",
+        "price": 300,
+        "location": "Pond",
+        "shadowSize": 4,
+        "time": ["0", "1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13", "14", "15", "16", "17", "18", "19", "20", "21", "22", "23"],
+        "season": {
+            "northern": ["january", "february", "march", "april", "may", "june", "july", "august", "september", "october", "november", "december"],
+            "southern": ["january", "february", "march", "april", "may", "june", "july", "august", "september", "october", "november", "december"]
+        }
+    },
+    {
+        "id": 5,
+        "image": "koi.png",
+        "name": "Koi",
+            "price": 4000,
+            "location": "Pond",
+            "shadowSize": 4,
+            "time": ["0", "1", "2", "3", "4", "5", "6", "7", "8", "", "", "", "", "", "", "", "16", "17", "18", "19", "20", "21", "22", "23"],
+            "season": {
+                "northern": ["january", "february", "march", "april", "may", "june", "july", "august", "september", "october", "november", "december"],
+                "southern": ["january", "february", "march", "april", "may", "june", "july", "august", "september", "october", "november", "december"]
+            }
+    },
+    {
+        "id": 6,
+        "image": "goldfish.png",
+        "name": "Goldfish",
+            "price": 1300,
+            "location": "Pond",
+            "shadowSize": 1,
+            "time": ["0", "1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13", "14", "15", "16", "17", "18", "19", "20", "21", "22", "23"],
+            "season": {
+                "northern": ["january", "february", "march", "april", "may", "june", "july", "august", "september", "october", "november", "december"],
+                "southern": ["january", "february", "march", "april", "may", "june", "july", "august", "september", "october", "november", "december"]
+            }
+    },
+    {
+        "id": 7,
+        "image": "popeyed_goldfish.png",
+        "name": "Pop-Eyed Goldfish",
+        "price": 1300,
+        "location": "Pond",
+        "shadowSize": 1,
+        "time": ["", "", "", "", "", "", "", "", "", "9", "10", "11", "12", "13", "14", "15", "", "", "", "", "", "", "", ""],
+        "season": {
+            "northern": ["january", "february", "march", "april", "may", "june", "july", "august", "september", "october", "november", "december"],
+            "southern": ["january", "february", "march", "april", "may", "june", "july", "august", "september", "october", "november", "december"]
+        }
+    },
+    {
+        "id": 8,
+        "image": "ranchu_goldfish.png",
+        "name": "Ranchu Goldfish",
+        "price": 4500,
+        "location": "Pond",
+        "shadowSize": 2,
+        "time": ["", "", "", "", "", "", "", "", "", "9", "10", "11", "12", "13", "14", "15", "", "", "", "", "", "", "", ""],
+        "season": {
+            "northern": ["january", "february", "march", "april", "may", "june", "july", "august", "september", "october", "november", "december"],
+            "southern": ["january", "february", "march", "april", "may", "june", "july", "august", "september", "october", "november", "december"]
+        }
+    },
+    {
+        "id": 9,
+        "image": "killifish.png",
+        "name": "Killifish",
+        "price": 300,
+        "location": "Pond",
+        "shadowSize": 1,
+        "time": ["0", "1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13", "14", "15", "16", "17", "18", "19", "20", "21", "22", "23"],
+        "season": {
+            "northern": ["", "", "", "april", "may", "june", "july", "august", "", "", "", ""],
+            "southern": ["january", "february", "", "", "", "", "", "", "", "october", "november", "december"]
+        }
+    },
+    {
+        "id": 10,
+        "image": "crawfish.png",
+        "name": "Crawfish",
+            "price": 200,
+            "location": "Pond",
+            "shadowSize": 2,
+            "time": ["0", "1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13", "14", "15", "16", "17", "18", "19", "20", "21", "22", "23"],
+            "season": {
+                "northern": ["", "", "", "april", "may", "june", "july", "august", "september", "", "", ""],
+                "southern": ["january", "february", "march", "", "", "", "", "", "", "october", "november", "december"]
+            }
+    },
+    {
+        "id": 11,
+        "image": "soft_shelled_turtle.png",
+        "name": "Soft-Shelled Turtle",
+        "price": 3750,
+        "location": "River",
+        "shadowSize": 4,
+        "time": ["0", "1", "2", "3", "4", "5", "6", "7", "8", "", "", "", "", "", "", "", "16", "17", "18", "19", "20", "21", "22", "23"],
+        "season": {
+            "northern": ["", "", "", "", "", "", "", "august", "september", "", "", ""],
+            "southern": ["", "february", "march", "", "", "", "", "", "", "", "", ""]
+        }
+    },
+    {
+        "id": 12,
+        "image": "snapping_turtle.png",
+        "name": "Snapping Turtle",
+        "price": 5000,
+        "location": "River",
+        "shadowSize": 4,
+        "time": ["0", "1", "2", "3", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "21", "22", "23"],
+        "season": {
+            "northern": ["", "", "", "april", "may", "june", "july", "august", "september", "october", "", ""],
+            "southern": ["january", "february", "march", "april", "", "", "", "", "", "october", "november", "december"]
+        }
+    },
+    {
+        "id": 13,
+        "image": "tadpole.png",
+        "name": "Tadpole",
+        "price": 100,
+        "location": "Pond",
+        "shadowSize": 1,
+        "time": ["0", "1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13", "14", "15", "16", "17", "18", "19", "20", "21", "22", "23"],
+        "season": {
+            "northern": ["", "", "march", "april", "may", "june", "july", "", "", "", "", ""],
+            "southern": ["january", "", "", "", "", "", "", "", "september", "october", "november", "december"]
+        }
+    },
+    {
+        "id": 14,
+        "image": "frog.png",
+        "name": "Frog",
+        "price": 120,
+        "location": "Pond",
+        "shadowSize": 2,
+        "time": ["0", "1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13", "14", "15", "16", "17", "18", "19", "20", "21", "22", "23"],
+        "season": {
+            "northern": ["", "", "", "", "may", "june", "july", "august", "", "", "", ""],
+            "southern": ["january", "february", "", "", "", "", "", "", "", "", "november", "december"]
+        }
+    },
+    {
+        "id": 15,
+        "image": "freshwater_goby.png",
+        "name": "Freshwater Goby",
+        "price": 400,
+        "location": "River",
+        "shadowSize": 2,
+        "time": ["0", "1", "2", "3", "4", "5", "6", "7", "8", "", "", "", "", "", "", "", "16", "17", "18", "19", "20", "21", "22", "23"],
+        "season": {
+            "northern": ["january", "february", "march", "april", "may", "june", "july", "august", "september", "october", "november", "december"],
+            "southern": ["january", "february", "march", "april", "may", "june", "july", "august", "september", "october", "november", "december"]
+        }
+    },
+    {
+        "id": 16,
+        "image": "loach.png",
+        "name": "Loach",
+        "price": 400,
+        "location": "River",
+        "shadowSize": 2,
+        "time": ["0", "1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13", "14", "15", "16", "17", "18", "19", "20", "21", "22", "23"],
+        "season": {
+            "northern": ["", "", "march", "april", "may", "", "", "", "", "", "", ""],
+            "southern": ["", "", "", "", "", "", "", "", "september", "october", "november", ""]
+        }
+    },
+    {
+        "id": 17,
+        "image": "catfish.png",
+        "name": "Catfish",
+        "price": 800,
+        "location": "Pond",
+        "shadowSize": 4,
+        "time": ["0", "1", "2", "3", "4", "5", "6", "7", "8", "", "", "", "", "", "", "", "16", "17", "18", "19", "20", "21", "22", "23"],
+        "season": {
+            "northern": ["", "", "", "", "may", "june", "july", "august", "september", "october", "", ""],
+            "southern": ["january", "february", "march", "april", "", "", "", "", "", "", "november", "december"]
+        }
+    },
+    {
+        "id": 18,
+        "image": "giant_snakehead.png",
+        "name": "Giant Snakehead",
+        "price": 5500,
+        "location": "Pond",
+        "shadowSize": 5,
+        "time": ["", "", "", "", "", "", "", "", "", "9", "10", "11", "12", "13", "14", "15", "", "", "", "", "", "", "", ""],
+        "season": {
+            "northern": ["", "", "", "", "", "june", "july", "august", "", "", "", ""],
+            "southern": ["january", "february", "", "", "", "", "", "", "", "", "", ""]
+        }
+    },
+    {
+        "id": 19,
+        "image": "bluegill.png",
+        "name": "Bluegill",
+        "price": 180,
+        "location": "River",
+        "shadowSize": 2,
+        "time": ["", "", "", "", "", "", "", "", "", "9", "10", "11", "12", "13", "14", "15", "", "", "", "", "", "", "", ""],
+        "season": {
+            "northern": ["january", "february", "march", "april", "may", "june", "july", "august", "september", "october", "november", "december"],
+            "southern": ["january", "february", "march", "april", "may", "june", "july", "august", "september", "october", "november", "december"]
+        }
+    },
+    {
+        "id": 20,
+        "image": "yellow_perch.png",
+        "name": "Yellow Perch",
+        "price": 300,
+        "location": "River",
+        "shadowSize": 3,
+        "time": ["0", "1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13", "14", "15", "16", "17", "18", "19", "20", "21", "22", "23"],
+        "season": {
+            "northern": ["january", "february", "march", "", "", "", "", "", "", "october", "november", "december"],
+            "southern": ["", "", "", "april", "may", "june", "july", "august", "september", "", "", ""]
+        }
+    },
+    {
+        "id": 21,
+        "image": "black_bass.png",
+        "name": "Black Bass",
+        "price": 400,
+        "location": "River",
+        "shadowSize": 4,
+        "time": ["0", "1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13", "14", "15", "16", "17", "18", "19", "20", "21", "22", "23"],
+        "season": {
+            "northern": ["january", "february", "march", "april", "may", "june", "july", "august", "september", "october", "november", "december"],
+            "southern": ["january", "february", "march", "april", "may", "june", "july", "august", "september", "october", "november", "december"]
+        }
+    },
+    {
+        "id": 22,
+        "image": "tilapia.png",
+        "name": "Tilapia",
+        "price": 800,
+        "location": "River",
+        "shadowSize": 3,
+        "time": ["0", "1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13", "14", "15", "16", "17", "18", "19", "20", "21", "22", "23"],
+        "season": {
+            "northern": ["", "", "", "", "", "june", "july", "august", "september", "october", "", ""],
+            "southern": ["january", "february", "march", "april", "", "", "", "", "", "", "", "december"]
+        }
+    },
+    {
+        "id": 23,
+        "image": "pike.png",
+        "name": "Pike",
+            "price": 1800,
+            "location": "River",
+            "shadowSize": 5,
+            "time": ["0", "1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13", "14", "15", "16", "17", "18", "19", "20", "21", "22", "23"],
+            "season": {
+                "northern": ["", "", "", "", "", "", "", "", "september", "october", "november", "december"],
+                "southern": ["", "", "march", "april", "may", "june", "", "", "", "", "", ""]
+            }
+    },
+    {
+        "id": 24,
+        "image": "pond_smelt.png",
+        "name": "Pond Smelt",
+        "price": 500,
+        "location": "River",
+        "shadowSize": 2,
+        "time": ["0", "1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13", "14", "15", "16", "17", "18", "19", "20", "21", "22", "23"],
+        "season": {
+            "northern": ["january", "february", "", "", "", "", "", "", "", "", "", "december"],
+            "southern": ["", "", "", "", "", "june", "july", "august", "", "", "", ""]
+        }
+    },
+    {
+        "id": 25,
+        "image": "sweetfish.png",
+        "name": "Sweetfish",
+        "price": 900,
+        "location": "River",
+        "shadowSize": 3,
+        "time": ["0", "1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13", "14", "15", "16", "17", "18", "19", "20", "21", "22", "23"],
+        "season": {
+            "northern": ["", "", "", "", "", "", "july", "august", "september", "", "", ""],
+            "southern": ["january", "february", "march", "", "", "", "", "", "", "", "", "december"]
+        }
+    },
+    {
+        "id": 26,
+        "image": "cherry_salmon.png",
+        "name": "Cherry Salmon",
+        "price": 1000,
+        "location": "River (Clifftop)",
+        "shadowSize": 3,
+        "time": ["0", "1", "2", "3", "4", "5", "6", "7", "8", "", "", "", "", "", "", "", "16", "17", "18", "19", "20", "21", "22", "23"],
+        "season": {
+            "northern": ["", "", "march", "april", "may", "june", "", "", "september", "october", "november", ""],
+            "southern": ["", "", "march", "april", "may", "", "", "", "september", "october", "november", "december"]
+        }
+    },
+    {
+        "id": 27,
+        "image": "char.png",
+        "name": "Char",
+        "price": 3800,
+        "location": "River (Clifftop)",
+        "shadowSize": 3,
+        "time": ["0", "1", "2", "3", "4", "5", "6", "7", "8", "", "", "", "", "", "", "", "16", "17", "18", "19", "20", "21", "22", "23"],
+        "season": {
+            "northern": ["", "", "march", "april", "may", "june", "", "", "september", "october", "november", ""],
+            "southern": ["", "", "march", "april", "may", "", "", "", "september", "october", "november", "december"]
+        }
+    },
+    {
+        "id": 28,
+        "image": "golden_trout.png",
+        "name": "Golden Trout",
+        "price": 15000,
+        "location": "River (Clifftop)",
+        "shadowSize": 3,
+        "time": ["0", "1", "2", "3", "4", "5", "6", "7", "8", "", "", "", "", "", "", "", "16", "17", "18", "19", "20", "21", "22", "23"],
+        "season": {
+            "northern": ["", "", "march", "april", "may", "", "", "", "september", "october", "november", ""],
+            "southern": ["", "", "march", "april", "may", "", "", "", "september", "october", "november", ""]
+        }
+    },
+    {
+        "id": 29,
+        "image": "stringfish.png",
+        "name": "Stringfish",
+        "price": 15000,
+        "location": "River (Clifftop)",
+        "shadowSize": 5,
+        "time": ["0", "1", "2", "3", "4", "5", "6", "7", "8", "", "", "", "", "", "", "", "16", "17", "18", "19", "20", "21", "22", "23"],
+        "season": {
+            "northern": ["january", "february", "march", "", "", "", "", "", "", "", "", "december"],
+            "southern": ["", "", "", "", "", "june", "july", "august", "september", "", "", ""]
+        }
+    },
+    {
+        "id": 30,
+        "image": "salmon.png",
+        "name": "Salmon",
+        "price": 700,
+        "location": "River (Mouth)",
+        "shadowSize": 4,
+        "time": ["0", "1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13", "14", "15", "16", "17", "18", "19", "20", "21", "22", "23"],
+        "season": {
+            "northern": ["", "", "", "", "", "", "", "", "september", "", "", ""],
+            "southern": ["", "", "march", "", "", "", "", "", "", "", "", ""]
+        }
+    },
+    {
+        "id": 31,
+        "image": "king_salmon.png",
+        "name": "King Salmon",
+        "price": 1800,
+        "location": "River (Mouth)",
+        "shadowSize": 6,
+        "time": ["0", "1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13", "14", "15", "16", "17", "18", "19", "20", "21", "22", "23"],
+        "season": {
+            "northern": ["", "", "", "", "", "", "", "", "september", "", "", ""],
+            "southern": ["", "", "march", "", "", "", "", "", "", "", "", ""]
+        }
+    },
+    {
+        "id": 32,
+        "image": "mitten_crab.png",
+        "name": "Mitten Crab",
+        "price": 2000,
+        "location": "River",
+        "shadowSize": 2,
+        "time": ["0", "1", "2", "3", "4", "5", "6", "7", "8", "", "", "", "", "", "", "", "16", "17", "18", "19", "20", "21", "22", "23"],
+        "season": {
+            "northern": ["", "", "", "", "", "", "", "", "september", "october", "november", ""],
+            "southern": ["", "", "march", "april", "may", "", "", "", "", "", "", ""]
+        }
+    },
+    {
+        "id": 33,
+        "image": "guppy.png",
+        "name": "Guppy",
+        "price": 1300,
+        "location": "River",
+        "shadowSize": 1,
+        "time": ["", "", "", "", "", "", "", "", "", "9", "10", "11", "12", "13", "14", "15", "", "", "", "", "", "", "", ""],
+        "season": {
+            "northern": ["", "", "", "april", "may", "june", "july", "august", "september", "october", "november", ""],
+            "southern": ["january", "february", "march", "april", "may", "", "", "", "", "october", "november", "december"]
+        }
+    },
+    {
+        "id": 34,
+        "image": "nibble_fish.png",
+        "name": "Nibble Fish",
+        "price": 1500,
+        "location": "River",
+        "shadowSize": 1,
+        "time": ["", "", "", "", "", "", "", "", "", "9", "10", "11", "12", "13", "14", "15", "", "", "", "", "", "", "", ""],
+        "season": {
+            "northern": ["", "", "", "", "may", "june", "july", "august", "september", "", "", ""],
+            "southern": ["january", "february", "march", "", "", "", "", "", "", "", "november", "december"]
+        }
+    },
+    {
+        "id": 35,
+        "image": "angelfish.png",
+        "name": "Angelfish",
+        "price": 3000,
+        "location": "River",
+        "shadowSize": 2,
+        "time": ["0", "1", "2", "3", "4", "5", "6", "7", "8", "", "", "", "", "", "", "", "16", "17", "18", "19", "20", "21", "22", "23"],
+        "season": {
+            "northern": ["", "", "", "", "may", "june", "july", "august", "september", "october", "", ""],
+            "southern": ["january", "february", "march", "april", "", "", "", "", "", "", "november", "december"]
+        }
+    },
+    {
+        "id": 36,
+        "image": "betta.png",
+        "name": "Betta",
+        "price": 2500,
+        "location": "River",
+        "shadowSize": 2,
+        "time": ["", "", "", "", "", "", "", "", "", "9", "10", "11", "12", "13", "14", "15", "", "", "", "", "", "", "", ""],
+        "season": {
+            "northern": ["", "", "", "", "may", "june", "july", "august", "september", "october", "", ""],
+            "southern": ["january", "february", "march", "", "", "", "", "", "", "", "november", "december"]
+        }
+    },
+    {
+        "id": 37,
+        "image": "neon_tetra.png",
+        "name": "Neon Tetra",
+        "price": 500,
+        "location": "River",
+        "shadowSize": 1,
+        "time": ["", "", "", "", "", "", "", "", "", "9", "10", "11", "12", "13", "14", "15", "", "", "", "", "", "", "", ""],
+        "season": {
+            "northern": ["", "", "", "april", "may", "june", "july", "august", "september", "october", "november", ""],
+            "southern": ["january", "february", "march", "april", "may", "", "", "", "", "october", "november", "december"]
+        }
+    },
+    {
+        "id": 38,
+        "image": "rainbowfish.png",
+        "name": "Rainbowfish",
+        "price": 800,
+        "location": "River",
+        "shadowSize": 1,
+        "time": ["", "", "", "", "", "", "", "", "", "9", "10", "11", "12", "13", "14", "15", "", "", "", "", "", "", "", ""],
+        "season": {
+            "northern": ["", "", "", "", "may", "june", "july", "august", "september", "october", "", ""],
+            "southern": ["january", "february", "march", "april", "", "", "", "", "", "", "november", "december"]
+        }
+    },
+    {
+        "id": 39,
+        "image": "piranha.png",
+        "name": "Piranha",
+        "price": 2500,
+        "location": "River",
+        "shadowSize": 2,
+        "time": ["0", "1", "2", "3", "", "", "", "", "", "9", "10", "11", "12", "13", "14", "15", "", "", "", "", "", "21", "22", "23"],
+        "season": {
+            "northern": ["", "", "", "", "", "june", "july", "august", "september", "", "", ""],
+            "southern": ["january", "february", "march", "", "", "", "", "", "", "", "", "december"]
+        }
+    },
+    {
+        "id": 40,
+        "image": "arowana.png",
+        "name": "Arowana",
+        "price": 10000,
+        "location": "River",
+        "shadowSize": 4,
+        "time": ["0", "1", "2", "3", "4", "5", "6", "7", "8", "", "", "", "", "", "", "", "16", "17", "18", "19", "20", "21", "22", "23"],
+        "season": {
+            "northern": ["", "", "", "", "", "june", "july", "august", "september", "", "", ""],
+            "southern": ["january", "february", "march", "", "", "", "", "", "", "", "", "december"]
+        }
+    },
+    {
+        "id": 41,
+        "image": "dorado.png",
+        "name": "Dorado",
+        "price": 15000,
+        "location": "River",
+        "shadowSize": 5,
+        "time": ["", "", "", "", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13", "14", "15", "16", "17", "18", "19", "20", "", "", ""],
+        "season": {
+            "northern": ["", "", "", "", "", "june", "july", "august", "september", "", "", ""],
+            "southern": ["january", "february", "march", "", "", "", "", "", "", "", "", "december"]
+        }
+    },
+    {
+        "id": 42,
+        "image": "gar.png",
+        "name": "Gar",
+        "price": 6000,
+        "location": "Pond",
+        "shadowSize": 6,
+        "time": ["0", "1", "2", "3", "4", "5", "6", "7", "8", "", "", "", "", "", "", "", "16", "17", "18", "19", "20", "21", "22", "23"],
+        "season": {
+            "northern": ["", "", "", "", "", "june", "july", "august", "september", "", "", ""],
+            "southern": ["january", "february", "march", "", "", "", "", "", "", "", "", "december"]
+        }
+    },
+    {
+        "id": 43,
+        "image": "arapaima.png",
+        "name": "Arapaima",
+        "price": 10000,
+        "location": "River",
+        "shadowSize": 6,
+        "time": ["0", "1", "2", "3", "4", "5", "6", "7", "8", "", "", "", "", "", "", "", "16", "17", "18", "19", "20", "21", "22", "23"],
+        "season": {
+            "northern": ["", "", "", "", "", "june", "july", "august", "september", "", "", ""],
+            "southern": ["january", "february", "march", "april", "", "", "", "", "", "", "", "december"]
+        }
+    },
+    {
+        "id": 44,
+        "image": "saddled_bichir.png",
+        "name": "Saddled Bichir",
+        "price": 4000,
+        "location": "River",
+        "shadowSize": 4,
+        "time": ["0", "1", "2", "3", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "21", "22", "23"],
+        "season": {
+            "northern": ["", "", "", "", "", "june", "july", "august", "september", "", "", ""],
+            "southern": ["january", "february", "march", "", "", "", "", "", "", "", "", "december"]
+        }
+    },
+    {
+        "id": 45,
+        "image": "sturgeon.png",
+        "name": "Sturgeon",
+        "price": 10000,
+        "location": "River (Mouth)",
+        "shadowSize": 6,
+        "time": ["0", "1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13", "14", "15", "16", "17", "18", "19", "20", "21", "22", "23"],
+        "season": {
+            "northern": ["january", "february", "march", "", "", "", "", "", "september", "october", "november", "december"],
+            "southern": ["", "", "march", "april", "may", "june", "july", "august", "september", "", "", ""]
+        }
+    },
+    {
+        "id": 46,
+        "image": "sea_butterfly.png",
+        "name": "Sea Butterfly",
+        "price": 1000,
+        "location": "Sea",
+        "shadowSize": 1,
+        "time": ["0", "1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13", "14", "15", "16", "17", "18", "19", "20", "21", "22", "23"],
+        "season": {
+            "northern": ["january", "february", "march", "", "", "", "", "", "", "", "", "december"],
+            "southern": ["", "", "", "", "", "june", "july", "august", "september", "", "", ""]
+        }
+    },
+    {
+        "id": 47,
+        "image": "seahorse.png",
+        "name": "Seahorse",
+        "price": 1100,
+        "location": "Sea",
+        "shadowSize": 1,
+        "time": ["0", "1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13", "14", "15", "16", "17", "18", "19", "20", "21", "22", "23"],
+        "season": {
+            "northern": ["", "", "", "april", "may", "june", "july", "august", "september", "october", "november", ""],
+            "southern": ["january", "february", "march", "april", "may", "", "", "", "", "october", "november", "december"]
+        }
+    },
+    {
+        "id": 48,
+        "image": "clownfish.png",
+        "name": "Clownfish",
+        "price": 650,
+        "location": "Sea",
+        "shadowSize": 1,
+        "time": ["0", "1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13", "14", "15", "16", "17", "18", "19", "20", "21", "22", "23"],
+        "season": {
+            "northern": ["", "", "", "april", "may", "june", "july", "august", "september", "", "", ""],
+            "southern": ["january", "february", "march", "", "", "", "", "", "", "october", "november", "december"]
+        }
+    },
+    {
+        "id": 49,
+        "image": "surgeonfish.png",
+        "name": "Surgeonfish",
+        "price": 1000,
+        "location": "Sea",
+        "shadowSize": 2,
+        "time": ["0", "1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13", "14", "15", "16", "17", "18", "19", "20", "21", "22", "23"],
+        "season": {
+            "northern": ["", "", "", "april", "may", "june", "july", "august", "september", "", "", ""],
+            "southern": ["january", "february", "march", "", "", "", "", "", "", "october", "november", "december"]
+        }
+    },
+    {
+        "id": 50,
+        "image": "butterfly_fish.png",
+        "name": "Butterfly Fish",
+        "price": 1000,
+        "location": "Sea",
+        "shadowSize": 2,
+        "time": ["0", "1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13", "14", "15", "16", "17", "18", "19", "20", "21", "22", "23"],
+        "season": {
+            "northern": ["", "", "", "april", "may", "june", "july", "august", "september", "", "", ""],
+            "southern": ["january", "february", "march", "", "", "", "", "", "", "october", "november", "december"]
+        }
+    },
+    {
+        "id": 51,
+        "image": "napoleonfish.png",
+        "name": "Napoleonfish",
+        "price": 10000,
+        "location": "Sea",
+        "shadowSize": 6,
+        "time": ["", "", "", "", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13", "14", "15", "16", "17", "18", "19", "20", "", "", ""],
+        "season": {
+            "northern": ["", "", "", "", "", "", "july", "august", "", "", "", ""],
+            "southern": ["january", "february", "", "", "", "", "", "", "", "", "", ""]
+        }
+    },
+    {
+        "id": 52,
+        "image": "zebra_turkeyfish.png",
+        "name": "Zebra Turkeyfish",
+        "price": 500,
+        "location": "Sea",
+        "shadowSize": 3,
+        "time": ["0", "1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13", "14", "15", "16", "17", "18", "19", "20", "21", "22", "23"],
+        "season": {
+            "northern": ["", "", "", "april", "may", "june", "july", "august", "september", "october", "november", ""],
+            "southern": ["january", "february", "march", "april", "may", "", "", "", "", "october", "november", "december"]
+        }
+    },
+    {
+        "id": 53,
+        "image": "blowfish.png",
+        "name": "Blowfish",
+            "price": 5000,
+            "location": "Sea",
+            "shadowSize": 3,
+            "time": ["0", "1", "2", "3", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "21", "22", "23"],
+            "season": {
+                "northern": ["january", "february", "", "", "", "", "", "", "", "", "november", "december"],
+                "southern": ["", "", "", "", "may", "june", "july", "august", "", "", "", ""]
+            }
+    },
+    {
+        "id": 54,
+        "image": "puffer_fish.png",
+        "name": "Puffer Fish",
+        "price": 250,
+        "location": "Sea",
+        "shadowSize": 3,
+        "time": ["0", "1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13", "14", "15", "16", "17", "18", "19", "20", "21", "22", "23"],
+        "season": {
+            "northern": ["", "", "", "", "", "", "july", "august", "september", "", "", ""],
+            "southern": ["january", "february", "march", "", "", "", "", "", "", "", "", ""]
+        }
+    },
+    {
+        "id": 55,
+        "image": "anchovy.png",
+        "name": "Anchovy",
+        "price": 200,
+        "location": "Sea",
+        "shadowSize": 2,
+        "time": ["", "", "", "", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13", "14", "15", "16", "17", "18", "19", "20", "", "", ""],
+        "season": {
+            "northern": ["january", "february", "march", "april", "may", "june", "july", "august", "september", "october", "november", "december"],
+            "southern": ["january", "february", "march", "april", "may", "june", "july", "august", "september", "october", "november", "december"]
+        }
+    },
+    {
+        "id": 56,
+        "image": "horse_mackerel.png",
+        "name": "Horse Mackerel",
+        "price": 150,
+        "location": "Sea",
+        "shadowSize": 2,
+        "time": ["0", "1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13", "14", "15", "16", "17", "18", "19", "20", "21", "22", "23"],
+        "season": {
+            "northern": ["january", "february", "march", "april", "may", "june", "july", "august", "september", "october", "november", "december"],
+            "southern": ["january", "february", "march", "april", "may", "june", "july", "august", "september", "october", "november", "december"]
+        }
+    },
+    {
+        "id": 57,
+        "image": "barred_knifejaw.png",
+        "name": "Barred Knifejaw",
+        "price": 5000,
+        "location": "Sea",
+        "shadowSize": 3,
+        "time": ["0", "1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13", "14", "15", "16", "17", "18", "19", "20", "21", "22", "23"],
+        "season": {
+            "northern": ["", "", "march", "april", "may", "june", "july", "august", "september", "october", "november", ""],
+            "southern": ["january", "february", "march", "april", "may", "", "", "", "september", "october", "november", "december"]
+        }
+    },
+    {
+        "id": 58,
+        "image": "sea_bass.png",
+        "name": "Sea Bass",
+        "price": 400,
+        "location": "Sea",
+        "shadowSize": 5,
+        "time": ["0", "1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13", "14", "15", "16", "17", "18", "19", "20", "21", "22", "23"],
+        "season": {
+            "northern": ["january", "february", "march", "april", "may", "june", "july", "august", "september", "october", "november", "december"],
+            "southern": ["january", "february", "march", "april", "may", "june", "july", "august", "september", "october", "november", "december"]
+        }
+    },
+    {
+        "id": 59,
+        "image": "red_snapper.png",
+        "name": "Red Snapper",
+        "price": 3000,
+        "location": "Sea",
+        "shadowSize": 4,
+        "time": ["0", "1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13", "14", "15", "16", "17", "18", "19", "20", "21", "22", "23"],
+        "season": {
+            "northern": ["january", "february", "march", "april", "may", "june", "july", "august", "september", "october", "november", "december"],
+            "southern": ["january", "february", "march", "april", "may", "june", "july", "august", "september", "october", "november", "december"]
+        }
+    },
+    {
+        "id": 60,
+        "image": "dab.png",
+        "name": "Dab",
+        "price": 300,
+        "location": "Sea",
+        "shadowSize": 3,
+        "time": ["0", "1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13", "14", "15", "16", "17", "18", "19", "20", "21", "22", "23"],
+        "season": {
+            "northern": ["january", "february", "march", "april", "", "", "", "", "", "october", "november", "december"],
+            "southern": ["", "", "", "april", "may", "june", "july", "august", "september", "october", "", ""]
+        }
+    },
+    {
+        "id": 61,
+        "image": "olive_flounder.png",
+        "name": "Olive Flounder",
+        "price": 800,
+        "location": "Sea",
+        "shadowSize": 5,
+        "time": ["0", "1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13", "14", "15", "16", "17", "18", "19", "20", "21", "22", "23"],
+        "season": {
+            "northern": ["january", "february", "march", "april", "may", "june", "july", "august", "september", "october", "november", "december"],
+            "southern": ["january", "february", "march", "april", "may", "june", "july", "august", "september", "october", "november", "december"]
+        }
+    },
+    {
+        "id": 62,
+        "image": "squid.png",
+        "name": "Squid",
+        "price": 500,
+        "location": "Sea",
+        "shadowSize": 3,
+        "time": ["0", "1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13", "14", "15", "16", "17", "18", "19", "20", "21", "22", "23"],
+        "season": {
+            "northern": ["january", "february", "march", "april", "may", "june", "july", "august", "", "", "", "december"],
+            "southern": ["january", "february", "", "", "", "june", "july", "august", "september", "october", "november", "december"]
+        }
+    },
+    {
+        "id": 63,
+        "image": "moray_eel.png",
+        "name": "Moray Eel",
+        "price": 2000,
+        "location": "Sea",
+        "shadowSize": "3 (narrow)",
+        "time": ["0", "1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13", "14", "15", "16", "17", "18", "19", "20", "21", "22", "23"],
+        "season": {
+            "northern": ["", "", "", "", "", "", "", "august", "september", "october", "", ""],
+            "southern": ["", "february", "march", "april", "", "", "", "", "", "", "", ""]
+        }
+    },
+    {
+        "id": 64,
+        "image": "ribbon_eel.png",
+        "name": "Ribbon Eel",
+        "price": 600,
+        "location": "Sea",
+        "shadowSize": "3 (narrow)",
+        "time": ["0", "1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13", "14", "15", "16", "17", "18", "19", "20", "21", "22", "23"],
+        "season": {
+            "northern": ["", "", "", "", "", "june", "july", "august", "september", "october", "", ""],
+            "southern": ["january", "february", "march", "april", "", "", "", "", "", "", "", "december"]
+        }
+    },
+    {
+        "id": 65,
+        "image": "tuna.png",
+        "name": "Tuna",
+        "price": 7000,
+        "location": "Pier",
+        "shadowSize": 6,
+        "time": ["0", "1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13", "14", "15", "16", "17", "18", "19", "20", "21", "22", "23"],
+        "season": {
+            "northern": ["january", "february", "march", "april", "", "", "", "", "", "", "november", "december"],
+            "southern": ["", "", "", "", "may", "june", "july", "august", "september", "october", "", ""]
+        }
+    },
+    {
+        "id": 66,
+        "image": "blue_marlin.png",
+        "name": "Blue Marlin",
+        "price": 10000,
+        "location": "Pier",
+        "shadowSize": 6,
+        "time": ["0", "1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13", "14", "15", "16", "17", "18", "19", "20", "21", "22", "23"],
+        "season": {
+            "northern": ["january", "february", "march", "april", "", "", "july", "august", "september", "", "november", "december"],
+            "southern": ["january", "february", "march", "", "may", "june", "july", "august", "september", "october", "", ""]
+        }
+    },
+    {
+        "id": 67,
+        "image": "giant_trevally.png",
+        "name": "Giant Trevally",
+        "price": 4500,
+        "location": "Pier",
+        "shadowSize": 5,
+        "time": ["0", "1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13", "14", "15", "16", "17", "18", "19", "20", "21", "22", "23"],
+        "season": {
+            "northern": ["", "", "", "", "may", "june", "july", "august", "september", "october", "", ""],
+            "southern": ["january", "february", "march", "april", "", "", "", "", "", "", "november", "december"]
+        }
+    },
+    {
+        "id": 68,
+        "image": "mahi_mahi.png",
+        "name": "Mahi-Mahi",
+        "price": 6000,
+        "location": "Pier",
+        "shadowSize": 5,
+        "time": ["0", "1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13", "14", "15", "16", "17", "18", "19", "20", "21", "22", "23"],
+        "season": {
+            "northern": ["", "", "", "", "may", "june", "july", "august", "september", "october", "", ""],
+            "southern": ["january", "february", "march", "april", "", "", "", "", "", "", "november", "december"]
+        }
+    },
+    {
+        "id": 69,
+        "image": "ocean_sunfish.png",
+        "name": "Ocean Sunfish",
+        "price": 4000,
+        "location": "Sea",
+        "shadowSize": "6 (fin)",
+        "time": ["", "", "", "", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13", "14", "15", "16", "17", "18", "19", "20", "", "", ""],
+        "season": {
+            "northern": ["", "", "", "", "", "", "july", "august", "september", "", "", ""],
+            "southern": ["january", "february", "march", "", "", "", "", "", "", "", "", ""]
+        }
+    },
+    {
+        "id": 70,
+        "image": "ray.png",
+        "name": "Ray",
+        "price": 3000,
+        "location": "Sea",
+        "shadowSize": 5,
+        "time": ["", "", "", "", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13", "14", "15", "16", "17", "18", "19", "20", "", "", ""],
+        "season": {
+            "northern": ["", "", "", "", "", "", "", "august", "september", "october", "november", ""],
+            "southern": ["", "february", "march", "april", "may", "", "", "", "", "", "", ""]
+        }
+    },
+    {
+        "id": 71,
+        "image": "saw_shark.png",
+        "name": "Saw Shark",
+        "price": 12000,
+        "location": "Sea",
+        "shadowSize": "6 (fin)",
+        "time": ["0", "1", "2", "3", "4", "5", "6", "7", "8", "", "", "", "", "", "", "", "16", "17", "18", "19", "20", "21", "22", "23"],
+        "season": {
+            "northern": ["", "", "", "", "", "june", "july", "august", "september", "", "", ""],
+            "southern": ["january", "february", "march", "", "", "", "", "", "", "", "", "december"]
+        }
+    },
+    {
+        "id": 72,
+        "image": "hammerhead_shark.png",
+        "name": "Hammerhead Shark",
+        "price": 8000,
+        "location": "Sea",
+        "shadowSize": "6 (fin)",
+        "time": ["0", "1", "2", "3", "4", "5", "6", "7", "8", "", "", "", "", "", "", "", "16", "17", "18", "19", "20", "21", "22", "23"],
+        "season": {
+            "northern": ["", "", "", "", "", "june", "july", "august", "september", "", "", ""],
+            "southern": ["january", "february", "march", "", "", "", "", "", "", "", "", "december"]
+        }
+    },
+    {
+        "id": 73,
+        "image": "great_white_shark.png",
+        "name": "Great White Shark",
+        "price": 15000,
+        "location": "sea",
+        "shadowSize": "6 (fin)",
+        "time": ["0", "1", "2", "3", "4", "5", "6", "7", "8", "", "", "", "", "", "", "", "16", "17", "18", "19", "20", "21", "22", "23"],
+        "season": {
+            "northern": ["", "", "", "", "", "june", "july", "august", "september", "", "", ""],
+            "southern": ["january", "february", "march", "", "", "", "", "", "", "", "", "december"]
+        }
+    },
+    {
+        "id": 74,
+        "image": "whale_shark.png",
+        "name": "Whale Shark",
+        "price": 13000,
+        "location": "Sea",
+        "shadowSize": "6 (fin)",
+        "time": ["0", "1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13", "14", "15", "16", "17", "18", "19", "20", "21", "22", "23"],
+        "season": {
+            "northern": ["", "", "", "", "", "june", "july", "august", "september", "", "", ""],
+            "southern": ["january", "february", "march", "", "", "", "", "", "", "", "", "december"]
+        }
+    },
+    {
+        "id": 75,
+        "image": "suckerfish.png",
+        "name": "Suckerfish",
+        "price": 1500,
+        "location": "Sea",
+        "shadowSize": "4 (fin)",
+        "time": ["0", "1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13", "14", "15", "16", "17", "18", "19", "20", "21", "22", "23"],
+        "season": {
+            "northern": ["", "", "", "", "", "june", "july", "august", "september", "", "", ""],
+            "southern": ["january", "february", "march", "", "", "", "", "", "", "", "", "december"]
+        }
+    },
+    {
+        "id": 76,
+        "image": "football_fish.png",
+        "name": "Football Fish",
+        "price": 2500,
+        "location": "Sea",
+        "shadowSize": 4,
+        "time": ["0", "1", "2", "3", "4", "5", "6", "7", "8", "", "", "", "", "", "", "", "16", "17", "18", "19", "20", "21", "22", "23"],
+        "season": {
+            "northern": ["january", "february", "march", "", "", "", "", "", "", "", "november", "december"],
+            "southern": ["", "", "", "", "may", "june", "july", "august", "september", "", "", ""]
+        }
+    },
+    {
+        "id": 77,
+        "image": "oarfish.png",
+        "name": "Oarfish",
+        "price": 9000,
+        "location": "Sea",
+        "shadowSize": 6,
+        "time": ["0", "1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13", "14", "15", "16", "17", "18", "19", "20", "21", "22", "23"],
+        "season": {
+            "northern": ["january", "february", "march", "april", "may", "", "", "", "", "", "", "december"],
+            "southern": ["", "", "", "", "", "june", "july", "august", "september", "october", "november", ""]
+        }
+    },
+    {
+        "id": 78,
+        "image": "barreleye.png",
+        "name": "Barreleye",
+        "price": 15000,
+        "location": "Sea",
+        "shadowSize": 2,
+        "time": ["0", "1", "2", "3", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "21", "22", "23"],
+        "season": {
+            "northern": ["january", "february", "march", "april", "may", "june", "july", "august", "september", "october", "november", "december"],
+            "southern": ["january", "february", "march", "april", "may", "june", "july", "august", "september", "october", "november", "december"]
+        }
+    },
+    {
+        "id": 79,
+        "image": "coelacanth.png",
+        "name": "Coelacanth",
+        "price": 15000,
+        "location": "Sea (Rainy Days)",
+        "shadowSize": 6,
+        "time": ["0", "1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13", "14", "15", "16", "17", "18", "19", "20", "21", "22", "23"],
+        "season": {
+            "northern": ["january", "february", "march", "april", "may", "june", "july", "august", "september", "october", "november", "december"],
+            "southern": ["january", "february", "march", "april", "may", "june", "july", "august", "september", "october", "november", "december"]
+        }
+    }
+]

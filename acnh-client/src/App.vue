@@ -64,43 +64,21 @@ export default {
     // Save caught/donated values to localStorage
     fishCaughtOrNot(fish){
       localStorage.setItem(fish.name + '-caught', fish.caught)
-      console.log("Fish updated: " + fish.name)
+      console.log("Fish updated: " + fish.name + " Caught: " + fish.caught)
     },
     bugsCaughtOrNot(bug){
       console.log(bug.name)
       localStorage.setItem(bug.name + '-caught', bug.caught)
-      console.log("Bug updated: " + bug.name)
+      console.log("Bug updated: " + bug.name + " Caught: " + bug.caught)
     },
     fishDonated(fish){
       localStorage.setItem(fish.name + '-donated', fish.donated)
-      console.log("Fish updated: " + fish.name)
+      console.log("Fish updated: " + fish.name + " Donated: " + fish.donated)
     },
     bugsDonated(bug){
       localStorage.setItem(bug.name + '-donated', bug.donated)
-      console.log("Bug updated: " + bug.name)
+      console.log("Bug updated: " + bug.name + " Donated: " + bug.donated)
     },
-
-    // loadData(){
-
-    //   for(bug in bugs){
-    //     if(localStorage.getItem(this.bug.name + '-caught')){
-    //       this.bug.caught = localStorage.getItem(this.bug.name + '-caught')
-    //     }
-    //     if(localStorage.getItem(this.bug.name + '-donated')){
-    //         this.bug.caught = localStorage.getItem(this.bug.name + '-donated')
-    //     }
-    //   }
-
-    //   for(fish in fishes){
-    //       console.log(fish)
-    //       if(localStorage.getItem(this.fish.name + '-caught')){
-    //         this.fish.caught = localStorage.getItem(this.fish.name + '-caught')
-    //       }
-    //       if(localStorage.getItem(this.fish.name + '-donated')){
-    //           this.fish.caught = localStorage.getItem(this.fish.name + '-donated')
-    //       }
-    //     }
-    // }
   }
 }
 </script>
