@@ -23,11 +23,11 @@
                     v-bind:months="fish.season.southern">
                 </AvailableMonths>
 
-                <label for="caught">Caught
-                    <input id="caught" type="checkbox" v-model="fish.caught" v-on:change="caught(fish)">
+                <label v-bind:id='fish.name + "-caught"'>Caught
+                    <input v-bind:id='fish.name + "-caught"' type="checkbox" v-model="fish.caught" v-on:change="caught(fish)">
                 </label>
-                <label for="donated">Donated
-                    <input id="donated" type="checkbox" v-model="fish.donated" v-on:change="donated(fish)">
+                <label v-bind:id='fish.name + "-donated"'>Donated
+                    <input v-bind:id='fish.name + "-caught"' type="checkbox" v-model="fish.donated" v-on:change="donated(fish)">
                 </label>
             </div>
         </div>

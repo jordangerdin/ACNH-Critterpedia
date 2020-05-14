@@ -22,11 +22,11 @@
                     v-bind:months="bug.season.southern">
                 </AvailableMonths>
 
-                <label for="caught">Caught
-                    <input id="caught" type="checkbox" v-model="bug.caught" v-on:change="caught(bug)">
+                <label v-bind:id='bug.name + "-caught"'>Caught
+                    <input v-bind:id='bug.name + "-caught"' type="checkbox" v-model="bug.caught" v-on:change="caught(bug)">
                 </label>
-                <label for="donated">Donated
-                    <input id="donated" type="checkbox" v-model="bug.donated" v-on:change="donated(bug)">
+                <label v-bind:id='bug.name + "-donated"'>Donated
+                    <input v-bind:id='bug.name + "-donated"' type="checkbox" v-model="bug.donated" v-on:change="donated(bug)">
                 </label>
             </div>
         </div>
