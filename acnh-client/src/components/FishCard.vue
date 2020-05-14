@@ -1,7 +1,7 @@
 <template>
     <!-- Fish details -->
     <div class="col-xl-2 col-lg-3 col-md-4 col-sm-4 col-xs-6 mx-auto" style="padding:5px">
-        <div class="card card-default" style="width: 15rem; height: 40rem;">
+        <div class="card card-default" style="width: 15rem; height: 35rem;">
             <img class="card-img-top" :src="`${imageSrc}`">
             <div class=card-body>
                 <p>{{ fish.name }}</p>
@@ -44,6 +44,14 @@ export default {
         AvailableHours, 
         AvailableMonths
     },
+    mounted() {
+        if(localStorage.getItem(this.fish.name + '-caught')){
+            this.fish.caught = localStorage.getItem(this.fish.name + '-caught')
+        }
+        if(localStorage.getItem(this.fish.name + '-donated')){
+            this.fish.caught = localStorage.getItem(this.fish.name + '-donated')
+        }
+    },
     props: {
         fish: Object,
         hemisphere: String
@@ -75,5 +83,9 @@ img{
     margin: 0 auto;
     float: none;
     margin-bottom: 10px;
+}
+
+p{
+    margin: 0;
 }
 </style>
