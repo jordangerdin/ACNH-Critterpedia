@@ -1,0 +1,962 @@
+[
+    {
+        "id": 0,
+        "image": "common_butterfly.png",
+        "name": "Common Butterfly",
+        "price": 160,
+        "location": "Above Flowers",
+        "time": ["", "", "", "", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13", "14", "15", "16", "17", "18", "", "", "", "", ""],
+        "season": {
+            "northern": ["january", "february", "march", "april", "may", "june", "", "", "september", "october", "november", "december"],
+            "southern": ["", "", "march", "april", "may", "june", "july", "august", "september", "october", "november", "december"]
+        }
+    },
+    {
+        "id": 1,
+        "image": "yellow_butterfly.png",
+        "name": "Yellow Butterfly",
+        "price": 160,
+        "location": "Flying",
+        "time": ["", "", "", "", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13", "14", "15", "16", "17", "18", "", "", "", "", ""],
+        "season": {
+            "northern": ["", "", "march", "april", "may", "june", "", "", "september", "october", "", ""],
+            "southern": ["", "", "march", "april", "", "", "", "", "september", "october", "november", "december"]
+        }
+    },
+    {
+        "id": 2,
+        "image": "tiger_butterfly.png",
+        "name": "Tiger Butterfly",
+        "price": 240,
+        "location": "Flying",
+        "time": ["", "", "", "", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13", "14", "15", "16", "17", "18", "", "", "", "", ""],
+        "season": {
+            "northern": ["", "", "march", "april", "may", "june", "july", "august", "september", "", "", ""],
+            "southern": ["january", "february", "march", "", "", "", "", "", "september", "october", "november", "december"]
+        }
+    },
+    {
+        "id": 3,
+        "image": "peacock_butterfly.png",
+        "name": "Peacock Butterfly",
+        "price": 2500,
+        "location": "Above Purple, Black, & Blue Flowers",
+        "time": ["", "", "", "", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13", "14", "15", "16", "17", "18", "", "", "", "", ""],
+        "season": {
+            "northern": ["", "", "march", "april", "may", "june", "", "", "", "", "", ""],
+            "southern": ["", "", "", "", "", "", "", "", "september", "october", "november", "december"]
+        }
+    },
+    {
+        "id": 4,
+        "image": "common_bluebottle.png",
+        "name": "Common Bluebottle",
+        "price": 300,
+        "location": "Flying",
+        "time": ["", "", "", "", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13", "14", "15", "16", "17", "18", "", "", "", "", ""],
+        "season": {
+            "northern": ["", "", "", "april", "may", "june", "july", "august", "", "", "", ""],
+            "southern": ["january", "february", "", "", "", "", "", "", "", "october", "november", "december"]
+        }
+    },
+    {
+        "id": 5,
+        "image": "paper_kite_butterfly.png",
+        "name": "Paper Kite Butterfly",
+        "price": 1000,
+        "location": "Flying",
+        "time": ["", "", "", "", "", "", "", "", "8", "9", "10", "11", "12", "13", "14", "15", "16", "17", "18", "", "", "", "", ""],
+        "season": {
+            "northern": ["january", "february", "march", "april", "may", "june", "july", "august", "september", "october", "november", "december"],
+            "southern": ["january", "february", "march", "april", "may", "june", "july", "august", "september", "october", "november", "december"]
+        }
+    },
+    {
+        "id": 6,
+        "image": "great_purple_emperor.png",
+        "name": "Great Purple Emperor",
+        "price": 3000,
+        "location": "Flying",
+        "time": ["", "", "", "", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13", "14", "15", "16", "17", "18", "", "", "", "", ""],
+        "season": {
+            "northern": ["", "", "", "", "may", "june", "july", "august", "", "", "", ""],
+            "southern": ["january", "february", "", "", "", "", "", "", "", "", "november", "december"]
+        }
+    },
+    {
+        "id": 7,
+        "image": "monarch_butterfly.png",
+        "name": "Monarch Butterfly",
+        "price": 140,
+        "location": "Flying",
+        "time": ["", "", "", "", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13", "14", "15", "16", "", "", "", "", "", "", ""],
+        "season": {
+            "northern": ["", "", "", "", "", "", "", "", "september", "october", "november", ""],
+            "southern": ["", "", "march", "april", "may", "", "", "", "", "", "", ""]
+        }
+    },
+    {
+        "id": 8,
+        "image": "emperor_butterfly.png",
+        "name": "Emperor Butterfly",
+        "price": 4000,
+        "location": "Flying",
+        "time": ["0", "1", "2", "3", "4", "5", "6", "7", "", "", "", "", "", "", "", "", "", "17", "18", "19", "20", "21", "22", "23"],
+        "season": {
+            "northern": ["january", "february", "march", "", "", "june", "july", "august", "september", "", "", "december"],
+            "southern": ["january", "february", "march", "", "", "june", "july", "august", "september", "", "", "december"]
+        }
+    },
+    {
+        "id": 9,
+        "image": "agrias_butterfly.png",
+        "name": "Agrias Butterfly",
+        "price": 3000,
+        "location": "Flying",
+        "time": ["", "", "", "", "", "", "", "", "8", "9", "10", "11", "12", "13", "14", "15", "16", "", "", "", "", "", "", ""],
+        "season": {
+            "northern": ["", "", "", "april", "may", "june", "july", "august", "september", "", "", ""],
+            "southern": ["january", "february", "march", "", "", "", "", "", "", "october", "november", "december"]
+        }
+    },
+    {
+        "id": 10,
+        "image": "rajah_brookes_birdwing.png",
+        "name": "Rajah Brooke's Birdwing",
+        "price": 2500,
+        "location": "Flying",
+        "time": ["", "", "", "", "", "", "", "", "8", "9", "10", "11", "12", "13", "14", "15", "16", "", "", "", "", "", "", ""],
+        "season": {
+            "northern": ["january", "february", "", "april", "may", "june", "july", "august", "september", "", "", "december"],
+            "southern": ["january", "february", "march", "", "", "june", "july", "august", "", "october", "november", "december"]
+        }
+    },
+    {
+        "id": 11,
+        "image": "queen_alexandras_birdwing.png",
+        "name": "Queen Alexandra's Birdwing",
+        "price": 4000,
+        "location": "Flying",
+        "time": ["", "", "", "", "", "", "", "", "8", "9", "10", "11", "12", "13", "14", "15", "", "", "", "", "", "", "", ""],
+        "season": {
+            "northern": ["", "", "", "", "may", "june", "july", "august", "september", "", "", ""],
+            "southern": ["january", "february", "march", "", "", "", "", "", "", "", "november", "december"]
+        }
+    },
+    {
+        "id": 12,
+        "image": "moth.png",
+        "name": "Moth",
+        "price": 130,
+        "location": "Around Light",
+        "time": ["0", "1", "2", "3", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "19", "20", "21", "22", "23"],
+        "season": {
+            "northern": ["january", "february", "march", "april", "may", "june", "july", "august", "september", "october", "november", "december"],
+            "southern": ["january", "february", "march", "april", "may", "june", "july", "august", "september", "october", "november", "december"]
+        }
+    },
+    {
+        "id": 13,
+        "image": "atlas_moth.png",
+        "name": "Atlas Moth",
+        "price": 3000,
+        "location": "On Trees",
+        "time": ["0", "1", "2", "3", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "19", "20", "21", "22", "23"],
+        "season": {
+            "northern": ["", "", "", "april", "may", "june", "july", "august", "september", "", "", ""],
+            "southern": ["january", "february", "march", "", "", "", "", "", "", "october", "november", "december"]
+        }
+    },
+    {
+        "id": 14,
+        "image": "madagascan_sunset_moth.png",
+        "name": "Madagascan Sunset Moth",
+        "price": 2500,
+        "location": "Flying",
+        "time": ["", "", "", "", "", "", "", "", "8", "9", "10", "11", "12", "13", "14", "15", "", "", "", "", "", "", "", ""],
+        "season": {
+            "northern": ["", "", "", "april", "may", "june", "july", "august", "september", "", "", ""],
+            "southern": ["january", "february", "march", "", "", "", "", "", "", "october", "november", "december"]
+        }
+    },
+    {
+        "id": 15,
+        "image": "long_locust.png",
+        "name": "Long Locust",
+        "price": 200,
+        "location": "In Grass",
+        "time": ["", "", "", "", "", "", "", "", "8", "9", "10", "11", "12", "13", "14", "15", "16", "17", "18", "", "", "", "", ""],
+        "season": {
+            "northern": ["", "", "", "april", "may", "june", "july", "august", "september", "october", "november", ""],
+            "southern": ["january", "february", "march", "april", "may", "", "", "", "", "october", "november", "december"]
+        }
+    },
+    {
+        "id": 16,
+        "image": "migratory_locust.png",
+        "name": "Migratory Locust",
+        "price": 200,
+        "location": "In Grass",
+        "time": ["", "", "", "", "", "", "", "", "8", "9", "10", "11", "12", "13", "14", "15", "16", "17", "18", "", "", "", "", ""],
+        "season": {
+            "northern": ["", "", "", "", "", "", "", "august", "september", "october", "november", ""],
+            "southern": ["", "february", "march", "april", "may", "", "", "", "", "", "", ""]
+        }
+    },
+    {
+        "id": 17,
+        "image": "rice_grasshopper.png",
+        "name": "Rice Grasshopper",
+        "price": 1600,
+        "location": "In Grass",
+        "time": ["", "", "", "", "", "", "", "", "8", "9", "10", "11", "12", "13", "14", "15", "16", "17", "18", "", "", "", "", ""],
+        "season": {
+            "northern": ["", "", "", "", "", "", "", "august", "september", "october", "november", ""],
+            "southern": ["", "february", "march", "april", "may", "", "", "", "", "", "", ""]
+        }
+    },
+    {
+        "id": 18,
+        "image": "grasshopper.png",
+        "name": "Grasshopper",
+        "price": 160,
+        "location": "In Grass",
+        "time": ["", "", "", "", "", "", "", "", "8", "9", "10", "11", "12", "13", "14", "15", "16", "", "", "", "", "", "", ""],
+        "season": {
+            "northern": ["", "", "", "", "", "", "july", "august", "september", "", "", ""],
+            "southern": ["january", "february", "march", "", "", "", "", "", "", "", "", ""]
+        }
+    },
+    {
+        "id": 19,
+        "image": "cricket.png",
+        "name": "Cricket",
+        "price": 130,
+        "location": "In Grass",
+        "time": ["0", "1", "2", "3", "4", "5", "6", "7", "", "", "", "", "", "", "", "", "", "17", "18", "19", "20", "21", "22", "23"],
+        "season": {
+            "northern": ["", "", "", "", "", "", "", "", "september", "october", "november", ""],
+            "southern": ["", "", "march", "april", "may", "", "", "", "", "", "", ""]
+        }
+    },
+    {
+        "id": 20,
+        "image": "bell_cricket.png",
+        "name": "Bell Cricket",
+        "price": 430,
+        "location": "In Grass",
+        "time": ["0", "1", "2", "3", "4", "5", "6", "7", "", "", "", "", "", "", "", "", "", "17", "18", "19", "20", "21", "22", "23"],
+        "season": {
+            "northern": ["", "", "", "", "", "", "", "", "september", "october", "", ""],
+            "southern": ["", "", "march", "april", "", "", "", "", "", "", "", ""]
+        }
+    },
+    {
+        "id": 21,
+        "image": "mantis.png",
+        "name": "Mantis",
+        "price": 430,
+        "location": "On Flowers",
+        "time": ["", "", "", "", "", "", "", "", "8", "9", "10", "11", "12", "13", "14", "15", "16", "", "", "", "", "", "", ""],
+        "season": {
+            "northern": ["", "", "march", "april", "may", "june", "july", "august", "september", "october", "november", ""],
+            "southern": ["january", "", "march", "april", "", "", "", "", "september", "october", "november", "december"]
+        }
+    },
+    {
+        "id": 22,
+        "image": "orchid_mantis.png",
+        "name": "Orchid Mantis",
+        "price": 2400,
+        "location": "On White Flowers",
+        "time": ["", "", "", "", "", "", "", "", "8", "9", "10", "11", "12", "13", "14", "15", "16", "", "", "", "", "", "", ""],
+        "season": {
+            "northern": ["", "", "march", "april", "may", "june", "july", "august", "september", "october", "november", ""],
+            "southern": ["january", "february", "march", "april", "may", "", "", "", "september", "october", "november", "december"]
+        }
+    },
+    {
+        "id": 23,
+        "image": "honeybee.png",
+        "name": "Honeybee",
+        "price": 200,
+        "location": "Above Flowers",
+        "time": ["", "", "", "", "", "", "", "", "8", "9", "10", "11", "12", "13", "14", "15", "16", "", "", "", "", "", "", ""],
+        "season": {
+            "northern": ["", "", "march", "april", "may", "june", "july", "", "", "", "", ""],
+            "southern": ["january", "", "", "", "", "", "", "", "september", "october", "november", "december"]
+        }
+    },
+    {
+        "id": 24,
+        "image": "wasp.png",
+        "name": "Wasp",
+        "price": 2500,
+        "location": "Shaking Trees",
+        "time": ["0", "1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13", "14", "15", "16", "17", "18", "19", "20", "21", "22", "23"],
+        "season": {
+            "northern": ["january", "february", "march", "april", "may", "june", "july", "august", "september", "october", "november", "december"],
+            "southern": ["january", "february", "march", "april", "may", "june", "july", "august", "september", "october", "november", "december"]
+        }
+    },
+    {
+        "id": 25,
+        "image": "brown_cicada.png",
+        "name": "Brown Cicada",
+        "price": 250,
+        "location": "On Trees",
+        "time": ["", "", "", "", "", "", "", "", "8", "9", "10", "11", "12", "13", "14", "15", "16", "", "", "", "", "", "", ""],
+        "season": {
+            "northern": ["", "", "", "", "", "", "july", "august", "", "", "", ""],
+            "southern": ["january", "february", "", "", "", "", "", "", "", "", "", ""]
+        }
+    },
+    {
+        "id": 26,
+        "image": "robust_cicada.png",
+        "name": "Robust Cicada",
+        "price": 300,
+        "location": "On Trees",
+        "time": ["", "", "", "", "", "", "", "", "8", "9", "10", "11", "12", "13", "14", "15", "16", "", "", "", "", "", "", ""],
+        "season": {
+            "northern": ["", "", "", "", "", "", "july", "august", "", "", "", ""],
+            "southern": ["january", "february", "", "", "", "", "", "", "", "", "", ""]
+        }
+    },
+    {
+        "id": 27,
+        "image": "giant_cicada.png",
+        "name": "Giant Cicada",
+        "price": 500,
+        "location": "On Trees",
+        "time": ["", "", "", "", "", "", "", "", "8", "9", "10", "11", "12", "13", "14", "15", "16", "", "", "", "", "", "", ""],
+        "season": {
+            "northern": ["", "", "", "", "", "", "july", "august", "", "", "", ""],
+            "southern": ["january", "february", "", "", "", "", "", "", "", "", "", ""]
+        }
+    },
+    {
+        "id": 28,
+        "image": "walker_cicada.png",
+        "name": "Walker Cicada",
+        "price": 400,
+        "location": "On Trees",
+        "time": ["", "", "", "", "", "", "", "", "8", "9", "10", "11", "12", "13", "14", "15", "", "", "", "", "", "", "", ""],
+        "season": {
+            "northern": ["", "", "", "", "", "", "", "august", "september", "", "", ""],
+            "southern": ["", "february", "march", "", "", "", "", "", "", "", "", ""]
+        }
+    },
+    {
+        "id": 29,
+        "image": "evening_cicada.png",
+        "name": "Evening Cicada",
+        "price": 550,
+        "location": "On Trees",
+        "time": ["", "", "", "", "4", "5", "6", "7", "", "", "", "", "", "", "", "", "16", "17", "18", "", "", "", "", ""],
+        "season": {
+            "northern": ["", "", "", "", "", "", "july", "august", "", "", "", ""],
+            "southern": ["january", "february", "", "", "", "", "", "", "", "", "", ""]
+        }
+    },
+    {
+        "id": 30,
+        "image": "cicada_shell.png",
+        "name": "Cicada Shell",
+        "price": 10,
+        "location": "On Trees",
+        "time": ["0", "1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13", "14", "15", "16", "17", "18", "19", "20", "21", "22", "23"],
+        "season": {
+            "northern": ["", "", "", "", "", "", "july", "august", "", "", "", ""],
+            "southern": ["january", "february", "", "", "", "", "", "", "", "", "", ""]
+        }
+    },
+    {
+        "id": 31,
+        "image": "red_dragonfly.png",
+        "name": "Red Dragonfly",
+        "price": 180,
+        "location": "Flying",
+        "time": ["", "", "", "", "", "", "", "", "8", "9", "10", "11", "12", "13", "14", "15", "16", "17", "18", "", "", "", "", ""],
+        "season": {
+            "northern": ["", "", "", "", "", "", "", "", "september", "october", "", ""],
+            "southern": ["", "", "march", "april", "", "", "", "", "", "", "", ""]
+        }
+    },
+    {
+        "id": 32,
+        "image": "darner_dragonfly.png",
+        "name": "Darner Dragonfly",
+        "price": 230,
+        "location": "Flying",
+        "time": ["", "", "", "", "", "", "", "", "8", "9", "10", "11", "12", "13", "14", "15", "16", "", "", "", "", "", "", ""],
+        "season": {
+            "northern": ["", "", "", "april", "may", "june", "july", "august", "september", "october", "", ""],
+            "southern": ["january", "february", "march", "april", "", "", "", "", "", "october", "november", "december"]
+        }
+    },
+    {
+        "id": 33,
+        "image": "banded_dragonfly.png",
+        "name": "Banded Dragonfly",
+        "price": 4500,
+        "location": "Flying",
+        "time": ["", "", "", "", "", "", "", "", "8", "9", "10", "11", "12", "13", "14", "15", "16", "", "", "", "", "", "", ""],
+        "season": {
+            "northern": ["", "", "", "", "may", "june", "july", "august", "september", "october", "", ""],
+            "southern": ["january", "february", "march", "april", "", "", "", "", "", "", "november", "december"]
+        }
+    },
+    {
+        "id": 34,
+        "image": "damselfly.png",
+        "name": "Damselfly",
+        "price": 500,
+        "location": "Flying",
+        "time": ["0", "1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13", "14", "15", "16", "17", "18", "19", "20", "21", "22", "23"],
+        "season": {
+            "northern": ["january", "february", "", "", "", "", "", "", "", "", "november", "december"],
+            "southern": ["", "", "", "", "may", "june", "july", "august", "", "", "", ""]
+        }
+    },
+    {
+        "id": 35,
+        "image": "firefly.png",
+        "name": "Firefly",
+        "price": 300,
+        "location": "Above Freshwater",
+        "time": ["0", "1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13", "14", "15", "", "", "", "19", "20", "21", "22", "23"],
+        "season": {
+            "northern": ["", "", "", "", "", "june", "", "", "", "", "", ""],
+            "southern": ["", "", "", "", "", "", "", "", "", "", "", "december"]
+        }
+    },
+    {
+        "id": 36,
+        "image": "mole_cricket.png",
+        "name": "Mole Cricket",
+        "price": 500,
+        "location": "Underground",
+        "time": ["0", "1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13", "14", "15", "16", "17", "18", "19", "20", "21", "22", "23"],
+        "season": {
+            "northern": ["january", "february", "march", "april", "may", "", "", "", "", "", "november", "december"],
+            "southern": ["", "", "", "", "may", "june", "july", "august", "september", "october", "november", ""]
+        }
+    },
+    {
+        "id": 37,
+        "image": "pondskater.png",
+        "name": "Pondskater",
+            "price": 130,
+            "location": "In Rivers",
+            "time": ["", "", "", "", "", "", "", "", "8", "9", "10", "11", "12", "13", "14", "15", "16", "17", "18", "", "", "", "", ""],
+            "season": {
+                "northern": ["", "", "", "", "may", "june", "july", "august", "september", "", "", ""],
+                "southern": ["january", "february", "march", "", "", "", "", "", "", "", "november", "december"]
+            }
+    },
+    {
+        "id": 38,
+        "image": "diving_beetle.png",
+        "name": "Diving Beetle",
+        "price": 800,
+        "location": "In Rivers",
+        "time": ["", "", "", "", "", "", "", "", "8", "9", "10", "11", "12", "13", "14", "15", "16", "17", "18", "", "", "", "", ""],
+        "season": {
+            "northern": ["", "", "", "", "may", "june", "july", "august", "september", "", "", ""],
+            "southern": ["january", "february", "march", "", "", "", "", "", "", "", "november", "december"]
+        }
+    },
+    {
+        "id": 39,
+        "image": "giant_water_bug.png",
+        "name": "Giant Water Bug",
+        "price": 2000,
+        "location": "In Rivers",
+        "time": ["0", "1", "2", "3", "4", "5", "6", "7", "", "", "", "", "", "", "", "", "", "", "", "19", "20", "21", "22", "23"],
+        "season": {
+            "northern": ["", "", "", "april", "may", "june", "july", "august", "september", "", "", ""],
+            "southern": ["january", "february", "march", "", "", "", "", "", "", "october", "november", "december"]
+        }
+    },
+    {
+        "id": 40,
+        "image": "stinkbug.png",
+        "name": "Stinkbug",
+        "price": 120,
+        "location": "On Trees",
+        "time": ["0", "1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13", "14", "15", "16", "17", "18", "19", "20", "21", "22", "23"],
+        "season": {
+            "northern": ["", "", "march", "april", "may", "june", "july", "august", "september", "october", "", ""],
+            "southern": ["january", "february", "march", "april", "", "", "", "", "september", "october", "november", "december"]
+        }
+    },
+    {
+        "id": 41,
+        "image": "man_faced_stink_bug.png",
+        "name": "Man-Faced Stinkbug",
+        "price": 1000,
+        "location": "On Flowers",
+        "time": ["0", "1", "2", "3", "4", "5", "6", "7", "", "", "", "", "", "", "", "", "", "", "", "19", "20", "21", "22", "23"],
+        "season": {
+            "northern": ["", "", "march", "april", "may", "june", "july", "august", "september", "october", "", ""],
+            "southern": ["january", "february", "march", "april", "", "", "", "", "september", "october", "november", "december"]
+        }
+    },
+    {
+        "id": 42,
+        "image": "ladybug.png",
+        "name": "Ladybug",
+        "price": 200,
+        "location": "On Flowers",
+        "time": ["", "", "", "", "", "", "", "", "8", "9", "10", "11", "12", "13", "14", "15", "16", "", "", "", "", "", "", ""],
+        "season": {
+            "northern": ["", "", "march", "april", "may", "june", "", "", "", "october", "", ""],
+            "southern": ["", "", "", "april", "", "", "", "", "september", "october", "november", "december"]
+        }
+    },
+    {
+        "id": 43,
+        "image": "tiger_beetle.png",
+        "name": "Tiger Beetle",
+        "price": 1500,
+        "location": "On Ground",
+        "time": ["0", "1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13", "14", "15", "16", "17", "18", "19", "20", "21", "22", "23"],
+        "season": {
+            "northern": ["", "february", "march", "april", "may", "june", "july", "august", "september", "october", "", ""],
+            "southern": ["january", "february", "march", "", "", "", "", "", "september", "october", "november", "december"]
+        }
+    },
+    {
+        "id": 44,
+        "image": "jewel_beetle.png",
+        "name": "Jewel Beetle",
+        "price": 2400,
+        "location": "On Tree Stumps",
+        "time": ["0", "1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13", "14", "15", "16", "17", "18", "19", "20", "21", "22", "23"],
+        "season": {
+            "northern": ["", "", "", "april", "may", "june", "july", "august", "", "", "", ""],
+            "southern": ["january", "february", "", "", "", "", "", "", "", "october", "november", "december"]
+        }
+    },
+    {
+        "id": 45,
+        "image": "citrus_long_horned_beetle.png",
+        "name": "Citrus Long-Horned Beetle",
+        "price": 350,
+        "location": "On Tree Stumps",
+        "time": ["0", "1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13", "14", "15", "16", "17", "18", "19", "20", "21", "22", "23"],
+        "season": {
+            "northern": ["january", "february", "march", "april", "may", "june", "july", "august", "september", "october", "november", "december"],
+            "southern": ["january", "february", "march", "april", "may", "june", "july", "august", "september", "october", "november", "december"]
+        }
+    },
+    {
+        "id": 46,
+        "image": "rosalia_batesi_beetle.png",
+        "name": "Rosalia Batesi Beetle",
+        "price": 3000,
+        "location": "On Tree Stumps",
+        "time": ["0", "1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13", "14", "15", "16", "17", "18", "19", "20", "21", "22", "23"],
+        "season": {
+            "northern": ["", "", "", "", "may", "june", "july", "august", "september", "", "", ""],
+            "southern": ["january", "february", "march", "", "", "", "", "", "", "", "november", "december"]
+        }
+    },
+    {
+        "id": 47,
+        "image": "blue_weevil_beetle.png",
+        "name": "Blue Weevil Beetle",
+        "price": 800,
+        "location": "On Trees",
+        "time": ["0", "1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13", "14", "15", "16", "17", "18", "19", "20", "21", "22", "23"],
+        "season": {
+            "northern": ["", "", "", "", "", "", "july", "august", "", "", "", ""],
+            "southern": ["january", "february", "", "", "", "", "", "", "", "", "", ""]
+        }
+    },
+    {
+        "id": 48,
+        "image": "violin_beetle.png",
+        "name": "Violin Beetle",
+        "price": 450,
+        "location": "On Tree Stumps",
+        "time": ["0", "1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13", "14", "15", "16", "17", "18", "19", "20", "21", "22", "23"],
+        "season": {
+            "northern": ["", "", "", "", "may", "june", "", "", "september", "october", "november", ""],
+            "southern": ["", "", "march", "april", "may", "", "", "", "", "", "november", "december"]
+        }
+    },
+    {
+        "id": 49,
+        "image": "dung_beetle.png",
+        "name": "Dung Beetle",
+        "price": 3000,
+        "location": "On Ground",
+        "time": ["0", "1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13", "14", "15", "16", "17", "18", "19", "20", "21", "22", "23"],
+        "season": {
+            "northern": ["january", "february", "", "", "", "", "", "", "", "", "", "december"],
+            "southern": ["", "", "", "", "", "june", "july", "august", "", "", "", ""]
+        }
+    },
+    {
+        "id": 50,
+        "image": "earth_boring_dung_beetle.png",
+        "name": "Earth-Boring Dung Beetle",
+        "price": 300,
+        "location": "On Ground",
+        "time": ["0", "1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13", "14", "15", "16", "17", "18", "19", "20", "21", "22", "23"],
+        "season": {
+            "northern": ["", "", "", "", "", "", "july", "august", "september", "", "", ""],
+            "southern": ["january", "february", "march", "", "", "", "", "", "", "", "", ""]
+        }
+    },
+    {
+        "id": 51,
+        "image": "scarab_beetle.png",
+        "name": "Scarab Beetle",
+        "price": 10000,
+        "location": "On Trees",
+        "time": ["0", "1", "2", "3", "4", "5", "6", "7", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "23"],
+        "season": {
+            "northern": ["", "", "", "", "", "", "july", "august", "", "", "", ""],
+            "southern": ["january", "february", "", "", "", "", "", "", "", "", "", ""]
+        }
+    },
+    {
+        "id": 52,
+        "image": "drone_beetle.png",
+        "name": "Drone Beetle",
+        "price": 200,
+        "location": "On Trees",
+        "time": ["0", "1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13", "14", "15", "16", "17", "18", "19", "20", "21", "22", "23"],
+        "season": {
+            "northern": ["", "", "", "", "", "june", "july", "august", "", "", "", ""],
+            "southern": ["january", "february", "", "", "", "", "", "", "", "", "", "december"]
+        }
+    },
+    {
+        "id": 53,
+        "image": "goliath_beetle.png",
+        "name": "Goliath Beetle",
+        "price": 8000,
+        "location": "On Trees",
+        "time": ["0", "1", "2", "3", "4", "5", "6", "7", "", "", "", "", "", "", "", "", "", "17", "18", "19", "20", "21", "22", "23"],
+        "season": {
+            "northern": ["", "", "", "", "", "june", "july", "august", "september", "", "", ""],
+            "southern": ["january", "february", "march", "", "", "", "", "", "", "", "", "december"]
+        }
+    },
+    {
+        "id": 54,
+        "image": "saw_stag_beetle.png",
+        "name": "Saw Stag Beetle",
+        "price": 2000,
+        "location": "On Trees",
+        "time": ["0", "1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13", "14", "15", "16", "17", "18", "19", "20", "21", "22", "23"],
+        "season": {
+            "northern": ["", "", "", "", "", "", "july", "august", "", "", "", ""],
+            "southern": ["january", "february", "", "", "", "", "", "", "", "", "", ""]
+        }
+    },
+    {
+        "id": 55,
+        "image": "miyama_stag.png",
+        "name": "Miyama Stag",
+        "price": 1000,
+        "location": "On Trees",
+        "time": ["0", "1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13", "14", "15", "16", "17", "18", "19", "20", "21", "22", "23"],
+        "season": {
+            "northern": ["", "", "", "", "", "", "july", "august", "", "", "", ""],
+            "southern": ["january", "february", "", "", "", "", "", "", "", "", "", ""]
+        }
+    },
+    {
+        "id": 56,
+        "image": "giant_stag.png",
+        "name": "Giant Stag",
+        "price": 10000,
+        "location": "On Trees",
+        "time": ["0", "1", "2", "3", "4", "5", "6", "7", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "23"],
+        "season": {
+            "northern": ["", "", "", "", "", "", "july", "august", "", "", "", ""],
+            "southern": ["january", "february", "", "", "", "", "", "", "", "", "", ""]
+        }
+    },
+    {
+        "id": 57,
+        "image": "rainbow_stag.png",
+        "name": "Rainbow Stag",
+        "price": 6000,
+        "location": "On Trees",
+        "time": ["0", "1", "2", "3", "4", "5", "6", "7", "", "", "", "", "", "", "", "", "", "", "", "19", "20", "21", "22", "23"],
+        "season": {
+            "northern": ["", "", "", "", "", "june", "july", "august", "september", "", "", ""],
+            "southern": ["january", "february", "march", "", "", "", "", "", "", "", "", "december"]
+        }
+    },
+    {
+        "id": 58,
+        "image": "cyclommatus_stag.png",
+        "name": "Cyclommatus Stag",
+        "price": 8000,
+        "location": "On Trees",
+        "time": ["0", "1", "2", "3", "4", "5", "6", "7", "", "", "", "", "", "", "", "", "", "17", "18", "19", "20", "21", "22", "23"],
+        "season": {
+            "northern": ["", "", "", "", "", "", "july", "august", "", "", "", ""],
+            "southern": ["january", "february", "", "", "", "", "", "", "", "", "", ""]
+        }
+    },
+    {
+        "id": 59,
+        "image": "golden_stag.png",
+        "name": "Golden Stag",
+        "price": 12000,
+        "location": "On Trees",
+        "time": ["0", "1", "2", "3", "4", "5", "6", "7", "", "", "", "", "", "", "", "", "", "17", "18", "19", "20", "21", "22", "23"],
+        "season": {
+            "northern": ["", "", "", "", "", "", "july", "august", "", "", "", ""],
+            "southern": ["january", "february", "", "", "", "", "", "", "", "", "", ""]
+        }
+    },
+    {
+        "id": 60,
+        "image": "giraffe_stag.png",
+        "name": "Giraffe Stag",
+        "price": 12000,
+        "location": "On Trees",
+        "time": ["0", "1", "2", "3", "4", "5", "6", "7", "", "", "", "", "", "", "", "", "", "17", "18", "19", "20", "21", "22", "23"],
+        "season": {
+            "northern": ["", "", "", "", "", "", "july", "august", "", "", "", ""],
+            "southern": ["january", "february", "", "", "", "", "", "", "", "", "", ""]
+        }
+    },
+    {
+        "id": 61,
+        "image": "horned_dynastid.png",
+        "name": "Horned Dynastid",
+        "price": 1350,
+        "location": "On Trees",
+        "time": ["0", "1", "2", "3", "4", "5", "6", "7", "", "", "", "", "", "", "", "", "", "17", "18", "19", "20", "21", "22", "23"],
+        "season": {
+            "northern": ["", "", "", "", "", "", "july", "august", "", "", "", ""],
+            "southern": ["january", "february", "", "", "", "", "", "", "", "", "", ""]
+        }
+    },
+    {
+        "id": 62,
+        "image": "horned_atlas.png",
+        "name": "Horned Atlas",
+        "price": 8000,
+        "location": "On Trees",
+        "time": ["0", "1", "2", "3", "4", "5", "6", "7", "", "", "", "", "", "", "", "", "", "17", "18", "19", "20", "21", "22", "23"],
+        "season": {
+            "northern": ["", "", "", "", "", "", "july", "august", "", "", "", ""],
+            "southern": ["january", "february", "", "", "", "", "", "", "", "", "", ""]
+        }
+    },
+    {
+        "id": 63,
+        "image": "horned_elephant.png",
+        "name": "Horned Elephant",
+        "price": 8000,
+        "location": "On Trees",
+        "time": ["0", "1", "2", "3", "4", "5", "6", "7", "", "", "", "", "", "", "", "", "", "17", "18", "19", "20", "21", "22", "23"],
+        "season": {
+            "northern": ["", "", "", "", "", "", "july", "august", "", "", "", ""],
+            "southern": ["january", "february", "", "", "", "", "", "", "", "", "", ""]
+        }
+    },
+    {
+        "id": 64,
+        "image": "horned_hercules.png",
+        "name": "Horned Hercules",
+        "price": 12000,
+        "location": "On Trees",
+        "time": ["0", "1", "2", "3", "4", "5", "6", "7", "", "", "", "", "", "", "", "", "", "17", "18", "19", "20", "21", "22", "23"],
+        "season": {
+            "northern": ["", "", "", "", "", "", "july", "august", "", "", "", ""],
+            "southern": ["january", "february", "", "", "", "", "", "", "", "", "", ""]
+        }
+    },
+    {
+        "id": 65,
+        "image": "walking_stick.png",
+        "name": "Walking Stick",
+        "price": 600,
+        "location": "On Trees",
+        "time": ["", "", "", "", "4", "5", "6", "7", "", "", "", "", "", "", "", "", "", "17", "18", "", "", "", "", ""],
+        "season": {
+            "northern": ["", "", "", "", "", "", "july", "august", "september", "october", "november", ""],
+            "southern": ["january", "february", "march", "april", "may", "", "", "", "", "", "", ""]
+        }
+    },
+    {
+        "id": 66,
+        "image": "walking_leaf.png",
+        "name": "Walking Leaf",
+        "price": 600,
+        "location": "On Ground (Beneath Trees)",
+        "time": ["0", "1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13", "14", "15", "16", "17", "18", "19", "20", "21", "22", "23"],
+        "season": {
+            "northern": ["", "", "", "", "", "", "july", "august", "september", "", "", ""],
+            "southern": ["january", "february", "march", "", "", "", "", "", "", "", "", ""]
+        }
+    },
+    {
+        "id": 67,
+        "image": "bagworm.png",
+        "name": "Bagworm",
+        "price": 600,
+        "location": "Shaking Trees",
+        "time": ["0", "1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13", "14", "15", "16", "17", "18", "19", "20", "21", "22", "23"],
+        "season": {
+            "northern": ["january", "february", "march", "april", "may", "june", "july", "august", "september", "october", "november", "december"],
+            "southern": ["january", "february", "march", "april", "may", "june", "july", "august", "september", "october", "november", "december"]
+        }
+    },
+    {
+        "id": 68,
+        "image": "ant.png",
+        "name": "Ant",
+        "price": 80,
+        "location": "On Rotten Turnips & Fruit",
+        "time": ["0", "1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13", "14", "15", "16", "17", "18", "19", "20", "21", "22", "23"],
+        "season": {
+            "northern": ["january", "february", "march", "april", "may", "june", "july", "august", "september", "october", "november", "december"],
+            "southern": ["january", "february", "march", "april", "may", "june", "july", "august", "september", "october", "november", "december"]
+        }
+    },
+    {
+        "id": 69,
+        "image": "hermit_crab.png",
+        "name": "Hermit Crab",
+        "price": 1000,
+        "location": "On Beach",
+        "time": ["0", "1", "2", "3", "4", "5", "6", "7", "", "", "", "", "", "", "", "", "", "", "", "19", "20", "21", "22", "23"],
+        "season": {
+            "northern": ["january", "february", "march", "april", "may", "june", "july", "august", "september", "october", "november", "december"],
+            "southern": ["january", "february", "march", "april", "may", "june", "july", "august", "september", "october", "november", "december"]
+        }
+    },
+    {
+        "id": 70,
+        "image": "wharf_roach.png",
+        "name": "Wharf Roach",
+        "price": 200,
+        "location": "On Beach (Rocks)",
+        "time": ["0", "1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13", "14", "15", "16", "17", "18", "19", "20", "21", "22", "23"],
+        "season": {
+            "northern": ["january", "february", "march", "april", "may", "june", "july", "august", "september", "october", "november", "december"],
+            "southern": ["january", "february", "march", "april", "may", "june", "july", "august", "september", "october", "november", "december"]
+        }
+    },
+    {
+        "id": 71,
+        "image": "fly.png",
+        "name": "Fly",
+        "price": 60,
+        "location": "On Rotten Food & Garbage",
+        "time": ["0", "1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13", "14", "15", "16", "17", "18", "19", "20", "21", "22", "23"],
+        "season": {
+            "northern": ["january", "february", "march", "april", "may", "june", "july", "august", "september", "october", "november", "december"],
+            "southern": ["january", "february", "march", "april", "may", "june", "july", "august", "september", "october", "november", "december"]
+        }
+    },
+    {
+        "id": 72,
+        "image": "mosquito.png",
+        "name": "Mosquito",
+        "price": 130,
+        "location": "Flying",
+        "time": ["0", "1", "2", "3", "", "", "", "", "", "", "", "", "", "", "", "", "", "17", "18", "19", "20", "21", "22", "23"],
+        "season": {
+            "northern": ["", "", "", "", "", "june", "july", "august", "september", "", "", ""],
+            "southern": ["january", "february", "march", "", "", "", "", "", "", "", "", "december"]
+        }
+    },
+    {
+        "id": 73,
+        "image": "flea.png",
+        "name": "Flea",
+        "price": 70,
+        "location": "On Flea-Infested Villagers",
+        "time": ["0", "1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13", "14", "15", "16", "17", "18", "19", "20", "21", "22", "23"],
+        "season": {
+            "northern": ["", "", "", "april", "may", "june", "july", "august", "september", "october", "november", ""],
+            "southern": ["january", "february", "march", "april", "may", "", "", "", "", "october", "november", "december"]
+        }
+    },
+    {
+        "id": 74,
+        "image": "snail.png",
+        "name": "Snail",
+        "price": 250,
+        "location": "On Rocks (Raining) & on Bushes",
+        "time": ["0", "1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13", "14", "15", "16", "17", "18", "19", "20", "21", "22", "23"],
+        "season": {
+            "northern": ["january", "february", "march", "april", "may", "june", "july", "august", "september", "october", "november", "december"],
+            "southern": ["january", "february", "march", "april", "may", "june", "july", "august", "september", "october", "november", "december"]
+        }
+    },
+    {
+        "id": 75,
+        "image": "pill_bug.png",
+        "name": "Pill Bug",
+        "price": 250,
+        "location": "Under Rocks",
+        "time": ["0", "1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13", "14", "15", "", "", "", "", "", "", "", "23"],
+        "season": {
+            "northern": ["january", "february", "march", "april", "may", "june", "", "", "september", "october", "november", "december"],
+            "southern": ["", "", "march", "april", "may", "june", "july", "august", "september", "october", "november", "december"]
+        }
+    },
+    {
+        "id": 76,
+        "image": "centipede.png",
+        "name": "Centipede",
+        "price": 430,
+        "location": "Under Rocks",
+        "time": ["", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "16", "17", "18", "19", "20", "21", "22", ""],
+        "season": {
+            "northern": ["january", "february", "march", "april", "may", "june", "", "", "september", "october", "november", "december"],
+            "southern": ["", "", "march", "april", "may", "june", "july", "august", "september", "october", "november", "december"]
+        }
+    },
+    {
+        "id": 77,
+        "image": "spider.png",
+        "name": "Spider",
+        "price": 600,
+        "location": "Shaking Trees",
+        "time": ["0", "1", "2", "3", "4", "5", "6", "7", "", "", "", "", "", "", "", "", "", "", "", "19", "20", "21", "22", "23"],
+        "season": {
+            "northern": ["january", "february", "march", "april", "may", "june", "july", "august", "september", "october", "november", "december"],
+            "southern": ["january", "february", "march", "april", "may", "june", "july", "august", "september", "october", "november", "december"]
+        }
+    },
+    {
+        "id": 78,
+        "image": "tarantula.png",
+        "name": "Tarantula",
+        "price": 8000,
+        "location": "On Ground",
+        "time": ["0", "1", "2", "3", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "19", "20", "21", "22", "23"],
+        "season": {
+            "northern": ["january", "february", "march", "april", "", "", "", "", "", "", "november", "december"],
+            "southern": ["", "", "", "", "may", "june", "july", "august", "september", "october", "", ""]
+        }
+    },
+    {
+        "id": 79,
+        "image": "scorpion.png",
+        "name": "Scorpion",
+        "price": 8000,
+        "location": "On Ground",
+        "time": ["0", "1", "2", "3", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "19", "20", "21", "22", "23"],
+        "season": {
+            "northern": ["", "", "", "", "may", "june", "july", "august", "september", "october", "", ""],
+            "southern": ["january", "february", "march", "april", "", "", "", "", "", "", "november", "december"]
+        }
+    }
+]
