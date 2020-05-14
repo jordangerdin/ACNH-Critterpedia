@@ -1,14 +1,15 @@
 <template>
     <div>
         <div id="monthContainer">
-        <div class="calander">
-            <div class="month"
-                v-for="(month, key, index) in months"
-                v-bind:key="index"
-                v-bind:class="{'available' : month}">
-            </div>
-        </div> 
-    </div>
+            <!-- Create a calander component, divides a div into 24 segments, append available class to segment based on fish/bug.json season/hemisphere -->
+            <div class="calander">
+                <div class="month"
+                    v-for="(month, key, index) in months"
+                    v-bind:key="index"
+                    v-bind:class="{'available' : month}">
+                </div>
+            </div> 
+        </div>
     </div>
 </template>
 

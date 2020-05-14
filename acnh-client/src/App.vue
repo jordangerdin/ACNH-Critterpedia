@@ -12,12 +12,15 @@
       </select>
     </nav>
 
+    <!-- Create a Fish table component for all fish in game -->
     <FishTable
       v-bind:fishes="fishes"
       v-on:fish-caught="fishCaughtOrNot"
       v-on:fish-donated="fishDonated"
       v-bind:hemisphere="hemisphere">
     </FishTable>
+    
+    <!-- Create a Bug table component for all bugs in game -->
     <BugTable
       v-bind:bugs="bugs"
       v-on:bug-caught="bugsCaughtOrNot"
@@ -51,11 +54,13 @@ export default {
   },
   methods: {
     updateFish(){
+      // Read in all fish from fish.json
       this.$fish_api.getFishData().then( fishes => {
         this.fishes = fishes
       })
     },
     updateBugs(){
+      // Read in all bugs from bugs.json
       this.$bug_api.getBugData().then( bugs => {
         this.bugs = bugs
       })

@@ -1,5 +1,6 @@
 <template>
     <div id="clockContainer">
+        <!-- Create a clock component, divides a div into 24 segments, append available class to segment based on fish/bug.json hours -->
         <div class="clock">
             <div
                 class="hour"

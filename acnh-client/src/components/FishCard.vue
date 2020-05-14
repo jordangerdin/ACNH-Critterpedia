@@ -45,11 +45,11 @@ export default {
         AvailableMonths
     },
     mounted() {
-        if(localStorage.getItem(this.fish.name + '-caught')){
-            this.fish.caught = localStorage.getItem(this.fish.name + '-caught')
+        if(localStorage.getItem(this.fish.name + '-caught') === 'true'){
+            this.fish.caught = true
         }
-        if(localStorage.getItem(this.fish.name + '-donated')){
-            this.fish.caught = localStorage.getItem(this.fish.name + '-donated')
+        if(localStorage.getItem(this.fish.name + '-donated') === 'true'){
+            this.fish.donated = true
         }
     },
     props: {
@@ -64,10 +64,14 @@ export default {
     methods: {
         caught(fish) {
             this.$emit('fish-caught', fish)
+            console.log('fishcard ' + this.fish.name + this.fish.caught)
         },
         donated(fish){ 
             this.$emit('fish-donated', fish)
         }
+    },
+    watch: {
+        
     }
 }
 </script>
